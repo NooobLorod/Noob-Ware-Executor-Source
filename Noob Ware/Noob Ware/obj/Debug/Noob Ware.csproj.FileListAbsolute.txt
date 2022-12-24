@@ -1,0 +1,22 @@
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\bin\Debug\Noob Ware.exe.config
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\bin\Debug\Noob Ware.exe
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\bin\Debug\Noob Ware.pdb
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\bin\Debug\aa-DJ\Noob Ware.resources.dll
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\bin\Debug\aa\Noob Ware.resources.dll
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\bin\Debug\FastColoredTextBox.dll
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\bin\Debug\WeAreDevs_API.dll
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob Ware.csproj.AssemblyReference.cache
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob Ware.csproj.SuggestedBindingRedirects.cache
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob_Ware.Form1.resources
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob_Ware.Properties.Resources.resources
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob_Ware.Form1.aa-DJ.resources
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob_Ware.Form1.aa.resources
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob Ware.csproj.GenerateResource.cache
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob Ware.csproj.CoreCompileInputs.cache
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\aa-DJ\Noob Ware.resources.dll
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\aa\Noob Ware.resources.dll
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob Ware.csproj.CopyComplete
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob Ware.exe
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob Ware.pdb
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob_Ware.ScriptHub.resources
+C:\Users\zachn\source\repos\Noob Ware\Noob Ware\obj\Debug\Noob_Ware.Options.resources
